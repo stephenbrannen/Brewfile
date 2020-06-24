@@ -41,7 +41,6 @@ cask "tresorit"
 
 brew "exiftool"
 brew "git"
-brew "nano"
 brew "python"
 brew "wget"
 brew "ffmpeg"
