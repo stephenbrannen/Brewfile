@@ -37,6 +37,7 @@ cask "webstorm"
 cask "bartender"
 cask "docker"
 cask "backblaze"
+cask "tresorit"
 
 brew "exiftool"
 brew "git"
