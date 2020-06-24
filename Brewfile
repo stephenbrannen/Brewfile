@@ -36,6 +36,7 @@ cask "pycharm"
 cask "webstorm"
 cask "bartender"
 cask "docker"
+cask "backblaze"
 
 brew "exiftool"
 brew "git"
